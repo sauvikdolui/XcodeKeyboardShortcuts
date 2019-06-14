@@ -33,8 +33,9 @@ List of useful keyboard shortcuts for Xcode
 | 6 	 | `⌘` + `⌥` + `5`             | Shows the **SIZE** Inspector                   |
 | 7 	 | `⌘` + `⌥` + `6`             | Shows the **CONNECTION** Inspector             |
 
-### 2. Unit Testing
 
+
+### 3. Unit Testing
 1. `⌘` + `u` ==> Runs the unit test scheme under current target            
 2. `⌃`+`⌥`+`⌘` + `u` ==> Runs the current unit test where the cursur is
 3. `⌃`+`⌥`+`⌘` + `g` ==> Runs the set of test cases executed earlier
