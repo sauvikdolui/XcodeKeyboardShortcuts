@@ -23,15 +23,15 @@ List of useful keyboard shortcuts for Xcode
 | 7    | `⌘` + `9`        | Shows the **REPORT** Navigator                 |
 
 ### 2. Inspector Shortcuts
-| SN   | Shortcut      				   |   Action Performed                              |
-| ----:|---------------------------:| :-----------------------------------------------|
-| 1    | `⌘` + `⌥` + `0`	 			| Hide / Unhides  Inspectors                     |
-| 2  	| `⌘` + `⌥` + `1`             | Shows the **FILE** Inspector                   |
-| 3 	| `⌘` + `⌥` + `2`             | Shows the **QUICK HELP** InspectoR             |
-| 4 	| `⌘` + `⌥` + `3`             | Shows the **IDENTITY** Inspector               |
-| 5 	| `⌘` + `⌥` + `4`             | Shows the **ATTRIBUTE** Inspector              |
-| 6 	| `⌘` + `⌥` + `5`             | Shows the **SIZE** Inspector                   |
-| 7 	| `⌘` + `⌥` + `6`             | Shows the **CONNECTION** Inspector             |
+| SN   | Shortcut      				       |   Action Performed                             |
+| ----:|----------------------------:| :----------------------------------------------|
+| 1    | `⌘` + `⌥` + `0`	 			     | Hide / Unhides  Inspectors                     |
+| 2    | `⌘` + `⌥` + `1`             | Shows the **FILE** Inspector                   |
+| 3 	 | `⌘` + `⌥` + `2`             | Shows the **QUICK HELP** InspectoR             |
+| 4 	 | `⌘` + `⌥` + `3`             | Shows the **IDENTITY** Inspector               |
+| 5 	 | `⌘` + `⌥` + `4`             | Shows the **ATTRIBUTE** Inspector              |
+| 6 	 | `⌘` + `⌥` + `5`             | Shows the **SIZE** Inspector                   |
+| 7 	 | `⌘` + `⌥` + `6`             | Shows the **CONNECTION** Inspector             |
 
 ### 2. Unit Testing
 
@@ -41,9 +41,9 @@ List of useful keyboard shortcuts for Xcode
 
 
 
-| SN   | Shortcut      				   |   Action Performed                              |
-| ----:|---------------------------:| :-----------------------------------------------|
-| 1    | `⌘` + `u`		 				| Runs the unit test scheme under current target  |
+| SN  | Shortcut      				      |   Action Performed                              |
+| ---:|----------------------------:| :-----------------------------------------------|
+| 1   | `⌘` + `u`		 				        | Runs the unit test scheme under current target  |
 | 2  	| `⌃`+`⌥`+`⌘` + `u`           | Runs the current unit test where the cursur is  |
 | 3 	| `⌃`+`⌥`+`⌘` + `g`           | Runs the set of test cases executed earlier     |
 
